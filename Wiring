@@ -1,0 +1,21 @@
+              ARDUINO UNO
+
+5V  ---------------- VCC (Rain Sensor)
+GND ---------------- GND (Rain Sensor)
+
+A0  ---------------- AO (Rain Sensor)
+
+
+D9  ---------------- Servo Signal
+5V  ---------------- Servo VCC
+GND ---------------- Servo GND
+
+
+D8  ---------------- Buzzer +
+
+GND ---------------- Buzzer -
+
+
+D13 ---------------- LED +
+
+GND ---------------- LED -
